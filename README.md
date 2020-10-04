@@ -1,4 +1,10 @@
-<h1 align="center">Hey, I'm Arnab 👋👦🏼</h1>
+<style>
+    body{
+        background-color: aqua;
+    }
+</style>
+<body>
+    <h1 align="center">Hey, I'm Arnab 👋👦🏼</h1>
 <h3 align="center">Physics lover, Front-end developer, Python and Fortran programmer</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=virarnab" alt="virarnab" /> </p>
@@ -25,4 +31,4 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css" width="40" height="40"/> </a> <a href="https://devdocs.io/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="js" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virarnab" alt="virarnab" /></p>
-
+</body>
