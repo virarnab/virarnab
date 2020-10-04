@@ -1,4 +1,4 @@
-![Arnab Chowhan](https://github.com/virarnab/virarnab/blob/master/photo-1562813733-b31f71025d54.jpg?raw=true)
+![Arnab Chowhan](https://github.com/virarnab/virarnab/blob/master/readme.png?raw=true)
 
 <body>
     <h1 align="center">Hey, I'm Arnab 👋👦🏼</h1>
