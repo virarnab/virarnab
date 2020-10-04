@@ -1,4 +1,4 @@
-![Arnab Chowhan](https://github.com/virarnab/virarnab/blob/master/readme.png?raw=true)
+<img align="center" src="https://github.com/virarnab/virarnab/blob/master/readme.png" alt="arnab">
 
 <body>
     <h1 align="center">Hey, I'm Arnab 👋👦🏼</h1>
