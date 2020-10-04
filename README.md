@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/virarnab/virarnab/blob/master/readme.png" alt="arnab">
+<p align="center"><img src="https://github.com/virarnab/virarnab/blob/master/readme.png" alt="arnab"></p>
 
 <body>
     <h1 align="center">Hey, I'm Arnab 👋👦🏼</h1>
