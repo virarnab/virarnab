@@ -1,4 +1,10 @@
-
+![Arnab Chowhan](https://github.com/virarnab/virarnab/blob/master/photo-1562813733-b31f71025d54.jpg?raw=true)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<style>
+    body{
+        background-color: aqua;
+    }
+</style>
 <body>
     <h1 align="center">Hey, I'm Arnab 👋👦🏼</h1>
 <h3 align="center">Physics lover, Front-end developer, Python and Fortran programmer</h3>
@@ -28,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virarnab" alt="virarnab" /></p>
 </body>
+
