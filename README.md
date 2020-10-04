@@ -1,8 +1,4 @@
-<style>
-    body{
-        background-color: aqua;
-    }
-</style>
+
 <body>
     <h1 align="center">Hey, I'm Arnab 👋👦🏼</h1>
 <h3 align="center">Physics lover, Front-end developer, Python and Fortran programmer</h3>
