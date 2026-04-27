@@ -15,7 +15,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-chowhan/)
-[![Orcid](https://img.shields.io/badge/Orcid-%23E4405F.svg?style=flat-square&logo=Orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0006-5394-8331/)
+[![Orcid](https://img.shields.io/badge/Orcid-%23A6CE39.svg?style=flat-square&logo=Orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0006-5394-8331/)
 </div>
 
 ---
