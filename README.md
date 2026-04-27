@@ -9,7 +9,8 @@
 - 🔭 &nbsp;**Asteroseismology** — reverse-engineering stellar interiors from oscillation frequencies
 - 🌐 &nbsp;**Interferometry** — resolving stellar surfaces with long-baseline interferometry
 - 📡 &nbsp;**Stellar Modelling** — hoping models work but they never do
-- ⚡ &nbsp;I love when physics and programming intersect at 3am
+
+⚡ &nbsp;I love when physics and programming intersect at 3am
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-chowhan/)
 [![Orcid](https://img.shields.io/badge/Orcid-%23E4405F.svg?style=flat-square&logo=Orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0006-5394-8331/)
@@ -23,7 +24,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
