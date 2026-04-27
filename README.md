@@ -1,63 +1,23 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ARNAB CHOWHAN — GitHub README                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-              · ·  ✦  ·    ·   ✦    ·  ✦   ·    · ✦  ·   ·  ✦
-         ✦ ·   ·     ·   ·  ✦  ·   ·    ✦    ·    ·   ✦    ·  ·
-```
-
 # Arnab Chowhan
 
 **`Stellar Astrophysics · University of Sydney`**
 
-*Listening to stars oscillate. Measuring them across baselines wider than imagination.*
+## ✦ About Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/arnabchowhan)
+*I'm a grad student at USyd, digging into stars’ hearts with asteroseismology and poking their surfaces with interferometry. Taking Fourier transforms in space and time to stalk stars without consent is my full-time hobby.*
+
+- 🔭 &nbsp;**Asteroseismology** — reverse-engineering stellar interiors from oscillation frequencies
+- 🌐 &nbsp;**Interferometry** — resolving stellar surfaces with long-baseline interferometry
+- 📡 &nbsp;**Stellar Modelling** — hoping models work but they never do
+- ⚡ &nbsp;I love when physics and programming intersect at 3am
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-chowhan/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Arnab_Chowhan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/virarnab/)
+[![Orcid](https://img.shields.io/badge/Orcid-%23E4405F.svg?style=flat-square&logo=Orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0006-5394-8331/)
 
 </div>
 
 ---
 
-## ✦ About Me
-
-PhD student at the **University of Sydney**, probing the hearts and faces of stars simultaneously.
-
-- 🔭 &nbsp;**Asteroseismology** — reverse-engineering stellar interiors from surface oscillation frequencies
-- 🌐 &nbsp;**Interferometry** — resolving stellar surfaces with baselines spanning continents
-- 📡 &nbsp;**Fourier analysis** — stalking stars across both space and time, completely without consent
-- ⚡ &nbsp;I love when physics and programming intersect at 3am
-
-> *"Stars are essentially light-emitting pressure wave resonators suspended in gravitational equilibrium. I just listen."*
-
----
-
-## 🔬 Research Focus
-
-```
-  Stellar Interior               Surface Activity
-  ───────────────               ────────────────
-  Core conditions    ←──────→   Interferometric imaging
-  Convective zones              Angular diameters
-  Seismic modes                 Limb darkening
-        │                             │
-        └────────── FFT Magic ─────────┘
-                       │
-              Publications & Panic
-```
-
-**Techniques I use regularly:**
-- Power spectrum analysis of photometric time series
-- Bayesian inference for asteroseismic modelling
-- Long-baseline optical/IR interferometry
-- Stellar structure & evolution codes
-
----
 
 ## 🛠️ Tools of the Trade
 
@@ -93,21 +53,7 @@ PhD student at the **University of Sydney**, probing the hearts and faces of sta
 
 ---
 
-## 🌌 Currently
-
-- 📝 &nbsp;Writing about stellar oscillations (and occasionally about the heat death of my motivation)
-- 🔭 &nbsp;Reducing interferometric data from CHARA / VLTI baselines
-- 📚 &nbsp;Reading everything Bedding, Chaplin, and Cunha have ever written
-- ☕ &nbsp;Caffeinating through power spectra
-
----
-
 <div align="center">
-
-```
-         · ✦ ·    The universe oscillates.     · ✦ ·
-              I just Fourier transform it.
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=virarnab&style=flat-square&color=6e57d2)
 
